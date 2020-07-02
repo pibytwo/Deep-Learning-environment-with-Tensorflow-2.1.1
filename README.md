@@ -14,3 +14,5 @@ Packages included -
 8. pymongo==3.10.1
 9. Flask-SocketIO==4.3.0
 10. requests==2.23.0
+
+All these packages help make deployment of Deep Learning project easy. Simply pull the image, copy your code and deploy. 
