@@ -1,6 +1,8 @@
 # python_with_tensorflow
 Custom environment for DL using Tensorflow 2.1.1 and Python 3.6.9 (with GPU support)
 
+Docker image --> docker pull pibytwo/python_with_tensorflow:0.1
+
 Packages included - 
 1.  opencv-python-headless==4.2.0.32
 2. flask==1.1.1
